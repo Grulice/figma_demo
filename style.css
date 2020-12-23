@@ -1,0 +1,30 @@
+body {
+    background-color: slategray;
+    font-family: 'Helvetica Neue';
+}
+
+article {
+    background-color: white;
+    padding: 30px;
+}
+
+.subtitle {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 34px;
+    line-height: 40px;
+
+    margin-top: 0;
+}
+
+.related-container {
+    display: flex;
+    align-items: center;
+}
